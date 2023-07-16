@@ -15,6 +15,7 @@ pip install matplotlib
 
 ## Running Experiments
 
-Use files in 
+Use files in the 'newsvendor' folder to reproduce newsvendor experiments.
+Use files in the 'portfolio_optimization' folder to reproduce portfolio optimization experiments.
 
 
